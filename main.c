@@ -7,7 +7,7 @@ void menuPrincipal()
   printf(" 3 - Para conversor de volume \n");
   printf(" 4 - Para conversor de temperatura \n");
   printf(" 5 - Para conversor de tempo \n");
-  printf(" 6 - Para conversor de area\n");
+  printf(" 6 - Para conversor de area \n");
 }
 
 void menuConversorDeMassa()
